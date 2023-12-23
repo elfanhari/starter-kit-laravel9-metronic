@@ -17,3 +17,4 @@ Starter Kit Laravel 9 dengan UI Metronic. Includes:
 - CRUD Sample with JQuery.
 - Laravel Debugbar.
 - Toastr.
+- Metronic Docs.
